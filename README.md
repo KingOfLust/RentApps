@@ -1,7 +1,3 @@
-Tentu, saya mengerti. Kita akan menyesuaikan kembali isi README.md agar hanya mencantumkan fitur yang memang sudah ada di dalam kode Anda saat ini (menghapus bagian Metode Pembayaran).
-
-Berikut adalah versi revisi terbaru yang bisa Anda salin ke file README.md:
-
 📱 Melascula Rent - Rental Gadget App
 Aplikasi persewaan gadget (iPhone & Kamera) berbasis Flutter yang menerapkan prinsip Object-Oriented Programming (OOP) secara mendalam dan sistem manajemen data lokal yang persisten menggunakan SQLite.
 
