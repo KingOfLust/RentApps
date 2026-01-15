@@ -108,3 +108,4 @@ class _SplashScreenState extends State<SplashScreen> {
     );
   }
 }
+//komentar buat ngubah deskripsi doang

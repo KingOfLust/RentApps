@@ -7,3 +7,4 @@ class Kamera extends Produk {
 
   Kamera(super.nama, super.harga, this.jenis, this.resolusi, {required id});
 }
+//komentar buat ngubah deskripsi doang

@@ -20,3 +20,4 @@ abstract class Produk {
 
   get tipe => null;
 }
+//komentar buat ngubah deskripsi doang

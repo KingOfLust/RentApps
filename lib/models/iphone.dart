@@ -9,3 +9,4 @@ class Iphone extends Produk {
 
   Iphone(super.nama, super.harga, this.warna, this.storage, this.ram, {required id}); // Mengirim data ke constructor parent
 }
+//komentar buat ngubah deskripsi doang
