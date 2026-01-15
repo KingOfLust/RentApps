@@ -1,0 +1,54 @@
+# Miscellaneous (File sampah sistem & editor)
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.history
+.svn/
+
+# Database SQLite Lokal (Sangat Penting untuk RentApps)
+# Menghindari upload database v3/v4 dari emulator Anda
+*.db
+*.db-journal
+*.sqlite
+
+# IntelliJ & Android Studio related
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+captures/
+/android/.gradle
+/android/local.properties
+
+# Visual Studio Code related
+.vscode/
+*.code-workspace
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/ios/Flutter/.last_build_id
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+
+# Android build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/key.properties
+*.keystore
+*.jks
+
+# Firebase & Web logs
+firebase-debug.log
+.web/
+
+GEMINI.md
