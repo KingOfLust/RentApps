@@ -59,8 +59,8 @@ Buka proyek di editor pilihan Anda.
 
 Jalankan perintah berikut secara berurutan di terminal:
 
-Bash
+1. flutter clean (ketik ini di terminal)
 
-flutter clean
-flutter pub get
-flutter run
+2. flutter pub get (jika sudah tahap 1 lanjut ketik perintah ini)
+
+3. flutter run (terakhir ketik perintah ini)
